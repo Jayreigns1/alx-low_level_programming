@@ -3,7 +3,7 @@
 * Auth: Brennan D Baraban
 */
 
-#include <stdib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
