@@ -1,6 +1,6 @@
 /*
 * File: 0-psitive_or_negative.c
-* Auth: Brennan D Baraban
+* Auth: Jay Reigns
 */
 
 #include <stdlib.h>
